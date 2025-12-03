@@ -1,3 +1,4 @@
+%Codigo del controlador
 %Primero se añade la variable S para usarla en la funcion
 s = tf('s');
 
